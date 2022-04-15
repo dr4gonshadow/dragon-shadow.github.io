@@ -1,0 +1,12 @@
+.header-top{
+    width: 100%;
+    position: fixed;        
+    background: rgb(144, 224, 220);
+    padding: 1px 0;
+    z-index: 1;
+}
+
+.footer-bottom{
+    width : 100%;
+    bottom: 0px;
+}
