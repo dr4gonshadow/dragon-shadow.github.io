@@ -1,2 +1,2 @@
 # dragonshadow.github.io
-my personal website
+my gaming website
